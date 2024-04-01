@@ -26,7 +26,7 @@ export default function Page() {
 
             , brought to you by Vercel.
           </p>
-          <p className={`${lusitana.className} text-xl text-gray-800 md:text-3x1 md:leading-normal`}>I'm blue!</p>
+          <p className={`${lusitana.className} text-xl text-gray-800 md:text-3x1 md:leading-normal`}>I&apos;m blue!</p>
           <p>I'm blue!</p>
           <Link
             href="/login"
