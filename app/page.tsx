@@ -27,7 +27,7 @@ export default function Page() {
             , brought to you by Vercel.
           </p>
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3x1 md:leading-normal`}>I&apos;m blue!</p>
-          <p>I'm blue!</p>
+          <p>I&apos;m blue!</p>
           <Link
             href="/login"
             className="flex items-center gap-5 self-start rounded-lg bg-blue-500 px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-blue-400 md:text-base"
